@@ -2,7 +2,6 @@
 
 **akhiranode** is a command line blockchain application for running akhirachain nodes and validators. It is built using Cosmos SDK and Tendermint and generated with [Starport](https://github.com/tendermint/starport).
 
-{% embed url="https://github.com/akhirachain/akhiranode" %}
 
 ## Command Line Interface
 
