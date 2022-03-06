@@ -88,7 +88,6 @@ Cosmos -&gt; Ethereum asset transfers are facilitated by a reverse process where
 
 Setup interfacing with tendermint, start the Relayer service, start the Oracle Claim Relayer service, burn assets on tendermint, create prophecy and oracle claims on Ethereum, and process prophecy claims
 
-{% embed url="https://github.com/akhirachain/al-jabaal/blob/develop/docs/cosmos-to-ethereum.md" %}
 
 
 

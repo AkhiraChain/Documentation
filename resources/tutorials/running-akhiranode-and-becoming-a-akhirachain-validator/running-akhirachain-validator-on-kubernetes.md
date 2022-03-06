@@ -251,21 +251,3 @@ e.g.:
 akhiranodecli q tendermint-validator-set --node tcp://52.89.19.109:26657 --trust-node
 ```
 
-## Tutorial Videos
-
-{% embed url="https://www.youtube.com/watch?v=5kro-awaikg" %}
-
-
-
-
-
-{% embed url="https://www.youtube.com/watch?v=X30Dl2AL-qU" %}
-
-
-
-{% embed url="https://www.youtube.com/watch?v=qEJqGDAetyA" %}
-
-
-
-
-

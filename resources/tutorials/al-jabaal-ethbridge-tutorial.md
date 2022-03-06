@@ -71,7 +71,6 @@ Transfer 2 cETH \(akhirachain\) -&gt; ETH
 
 ### Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=z1EZcetmDMI&t=2s" %}
 
 
 

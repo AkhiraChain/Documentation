@@ -1,6 +1,5 @@
 # Introduction to akhirachain
 
-{% embed url="https://medium.com/akhirachain-finance/introduction-to-akhirachain-3c3cd38f12f1" %}
 
 
 

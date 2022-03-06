@@ -19,7 +19,6 @@
 
 Setting up the akhirachain monkey bars testnet and becoming a validator
 
-{% embed url="https://github.com/akhirachain/akhiranode\#akhiranode" %}
 
 
 

@@ -25,7 +25,6 @@ There are multiple ways to get started with akhiranode and to become a validator
 
 ### Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=1kjdjCEcYak&feature=emb\_title" %}
 
 
 
