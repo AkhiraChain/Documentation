@@ -302,4 +302,3 @@ Uses Thorchain's slip based Continuous Liquidity Pool model to calculate trade s
 ![](../../.gitbook/assets/akhirachaincreateswapflow.png)
 
 **Swap Queue:** This feature is part of Thorchain's CLP model and will order swap execution by fee and slip size to ensure maximum fee collection and to prevent low-value trades. This is currently slated as a future goal for akhirachain.
-
