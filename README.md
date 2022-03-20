@@ -1,6 +1,5 @@
 # Welcome to akhirachain
 
-![](.gitbook/assets/twitter-header_environment-1500x500px-large-logo.jpg)
 
 
 akhirachain is the world's first omni-chain decentralized exchange. Built with the Cosmos SDK, akhirachain is 100x more efficient than current leading DeXes. akhirachain inherits the cross-chain capabilities of Thorchain and uses pegged tokens to support cross-chain transactions across a wide array of blockchains.
